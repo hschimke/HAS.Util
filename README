@@ -3,14 +3,15 @@ Summary
 
 A set of simple utilities which I have found useful in both professional and personal projects.
 
-This collection was developed on my own time, though I have (at times) granted license for use to companies 
-which were or had employed me.
+This collection was developed on my own time, though I have (at times) granted license for use
+to companies which were or had employed me.
 
 Projects
 ============
 
 Extensions.cs
-    Implements a very simple string template system for .NET string ojbects.  Utilizes anonymous objects and reflection for simplicity of use.
+    Implements a very simple string template system for .NET string ojbects.
+    Utilizes anonymous objects and reflection for simplicity of use.
 
 TagUri.cs
     Provides a simple way to generate a Tag URI (http://en.wikipedia.org/wiki/Tag_URI).
